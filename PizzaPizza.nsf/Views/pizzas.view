@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<note class='view' xmlns='http://www.lotus.com/dxl' version='9.0' maintenanceversion='1.0'
+ replicaid='C1257F7C003D8993'>
+<noteinfo noteid='172' unid='F09DAF7C04634040C1257F7C003DA8EF' sequence='4'>
+<created><datetime>20160320T121329,43+01</datetime></created>
+<modified><datetime dst='true'>20160411T211321,28+02</datetime></modified>
+<revised><datetime dst='true'>20160411T211321,26+02</datetime></revised>
+<lastaccessed><datetime dst='true'>20160411T211321,26+02</datetime></lastaccessed>
+<addedtofile><datetime>20160320T121329,46+01</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Sven Hasselbach/O=Hasselba/C=CH</name></updatedby>
+<wassignedby><name>CN=Sven Hasselbach/O=Hasselba/C=CH</name></wassignedby>
+<item name='$FormulaClass' sign='true'><text>1</text></item>
+<item name='$TITLE' sign='true'><text>pizzas</text></item>
+<item name='$Index' sign='true'><text/></item>
+<item name='$Formula' summary='true' sign='true'><formula compiled='true'>
+VAAFACoAJgAFAAIABAAFAAkABABpZG5hbWVwcmljZSRDb25mbGljdCRSRUYEAAQAAAAaAAUABABG
+b3JtAQAFAHBpenphAAoCAwAHAAoABAAJTDFT
+</formula></item>
+<item name='$Collation' summary='true'>
+<rawitemdata type='2'>
+BgAAAABE
+</rawitemdata></item>
+<item name='$ViewFormat' summary='true' sign='true'>
+<rawitemdata type='5'>
+AQADAAEACAAAAFZDAAACAAIAAAAAAFAAAQAACgAAAAAAAAAAAAICAAAAVkMAAAQABAAAAAAAUAAB
+AAAKAAAAAAAAAAAAAgIAAABWQwAABQAFAAAAAABQAAEAAAoAAAAAAAAAAAACAgAAAGlkaWRuYW1l
+bmFtZXByaWNlcHJpY2UmAAEAAAABAQAJAQAACgEBDgoAAAEArSsBAAEAAQAAAAAAAAAAAFdDAQEA
+CQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP//AAAAAAAAAAAAAAAAAABXQwEBAAkAAAAAAAAAAAAA
+AAAAAAAAAAAEAAAAAAD//wAAAAAAAAAAAAAAAAAAV0MBAQAJAAAAAAAAAAAAAAAAAAAAAAAABAAA
+AAAA//8AAAAAAAAAAAAAAAAAAEIAAAAAAAEA////AAUA////AAEAAAAAAAAAAAAAAAAAAQD///8A
+AQD///8AAAABAAAAAAABAAAAAAABAAAAAAAAAAgAAAAAAAEA
+</rawitemdata></item>
+<item name='$Comment' sign='true'><text/></item>
+<item name='$Flags'><text>PY</text></item>
+<item name='$DesignerVersion'><text>8.5.3</text></item></note>
+

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><note class="form" maintenanceversion="1.0" replicaid="C1257F7C003D8993" version="9.0" xmlns="http://www.lotus.com/dxl">
+<noteinfo noteid="19a" sequence="3" unid="5DB9875F3FEDA560C1257F7C003DE615">
+<created><datetime>20160320T121605,97+01</datetime></created>
+<modified><datetime dst="true">20160411T211321,19+02</datetime></modified>
+<revised><datetime dst="true">20160411T211321,17+02</datetime></revised>
+<lastaccessed><datetime dst="true">20160411T211321,17+02</datetime></lastaccessed>
+<addedtofile><datetime>20160320T121605,97+01</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Sven Hasselbach/O=Hasselba/C=CH</name></updatedby>
+<wassignedby><name>CN=Sven Hasselbach/O=Hasselba/C=CH</name></wassignedby>
+<item name="$TITLE"><text>gson-2.6.2.jar</text></item>
+<item name="$DesignerVersion"><text>8.5.3</text></item>
+<item name="$Flags"><text>34567Cg~,</text></item>
+
+
+
+
+
+
+
+
+
+
+
+
+<item name="$FileNames" sign="true"><text>gson-2.6.2.jar</text></item></note>

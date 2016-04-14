@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+  <classpathentry kind="src" path="Local"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+  <classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
+  <classpathentry kind="lib" path="C:/IBM/Domino9/osgi/shared/eclipse/plugins/com.ibm.domino.xsp.adapter_9.0.0.20130301-1431/lwpd.domino.adapter.jar"/>
+  <classpathentry kind="lib" path="C:/IBM/Domino9/osgi/shared/eclipse/plugins/com.ibm.commons_9.0.0.20130301-1431/lwpd.commons.jar"/>
+  <classpathentry kind="output" path="WebContent/WEB-INF/classes"/>
+</classpath>

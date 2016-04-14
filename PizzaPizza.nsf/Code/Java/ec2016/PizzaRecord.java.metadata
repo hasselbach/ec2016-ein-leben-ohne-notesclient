@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><note class="form" maintenanceversion="1.0" replicaid="C1257F7C003D8993" version="9.0" xmlns="http://www.lotus.com/dxl">
+<noteinfo noteid="1d6" sequence="34" unid="97CF992A1F56EEABC1257F7C00574C5E">
+<created><datetime>20160320T165331,82+01</datetime></created>
+<modified><datetime dst="true">20160414T115329,53+02</datetime></modified>
+<revised><datetime dst="true">20160414T115329,51+02</datetime></revised>
+<lastaccessed><datetime dst="true">20160414T115329,51+02</datetime></lastaccessed>
+<addedtofile><datetime>20160320T165331,82+01</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Sven Hasselbach/O=Hasselba/C=CH</name></updatedby>
+<wassignedby><name>CN=Sven Hasselbach/O=Hasselba/C=CH</name></wassignedby>
+<item name="$Flags"><text>34567Cg~[</text></item>
+<item name="$TITLE"><text>ec2016/PizzaRecord.java</text></item>
+
+
+
+
+
+
+
+<item name="$DesignerVersion"><text>8.5.3</text></item>
+
+
+<item name="$FileNames" sign="true"><text>ec2016/PizzaRecord.java</text></item></note>

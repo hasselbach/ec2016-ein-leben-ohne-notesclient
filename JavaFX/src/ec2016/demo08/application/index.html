@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html ng-app="ec2016App">
+<head>
+<meta charset="utf8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AngularJS EC2016</title>
+<link rel="stylesheet"
+	href="http://localhost:8080/pizzapizza.nsf/css/bootstrap.min.css">
+<script src="http://localhost:8080/pizzapizza.nsf/js/bootstrap.min.js"></script>
+</head>
+
+<body>
+	<div class="container">
+		<div class="jumbotron">
+			 <h1>Pizza, Pizza!</h1>
+		</div>
+		
+		<div class="row">
+			<input type="text" ng-model="search">
+			<p>Du suchst gerade nach: {{search}}</p>
+		</div>
+		
+		<div class="row">
+			<form ng-controller="PizzaCtrl" id="Pizzas">
+				<table class="table" >
+					<thead>
+						<tr>
+							<th>Id</th>
+							<th>Name</th>
+							<th>Preis</th>
+						</tr>
+					</thead>
+					<tr ng-repeat="pizza in pizzas | filter:search">
+						<td>{{pizza.id}}</td>
+						<td>{{pizza.name}}</td>
+						<td>{{pizza.price}}</td>
+					</tr>
+					<tr>
+						<td>
+							<input type="text" ng-model="newpizza.id">
+						</td>
+						<td>
+							<input type="text" ng-model="newpizza.name">
+						</td>
+						<td>
+							<input type="text" ng-model="newpizza.price">
+						</td>
+					</tr>
+					<tr>
+						<td colspan="3">
+							<button class="btn btn-primary btn-lg" ng-click="submit()">SUBMIT</button>
+						</td>
+					</tr>
+				</table>
+			</form>
+		</div>
+
+		<div class="row">
+			<button class="btn btn-primary btn-lg" onclick="app.exit()">Exit</button>
+			<button class="btn btn-default btn-lg" onclick="app.callBack()">CallBack</button>
+			<button class="btn btn-info btn-lg" onclick="alert('Hello World!')">Alert</button>
+			<button class="btn btn-success btn-lg" onclick="app.addPizza()">Add Pizza</button>
+		</div>
+		
+	</div>
+
+	<script>
+	  	function foo(){
+	  		var elem = document.createElement("b");
+	  		elem.innerHTML = "bar";
+	  		var body = document.getElementsByTagName("body");
+	  		body[0].appendChild( elem );
+	  	}
+  	</script>
+  		
+	<!-- laden von AngularJS app //-->
+	<script src="angular.js"></script>
+	<script src="app.js"></script>
+	
+</body>
+</html>

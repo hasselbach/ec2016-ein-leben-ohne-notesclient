@@ -1,0 +1,1 @@
+alert("dom.js wurde geladen!")

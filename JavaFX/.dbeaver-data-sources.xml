@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data-sources>
+	<data-source id="sqlite_jdbc-15395818c2a-10c60bdcad64506f" provider="generic" driver="sqlite_jdbc" name="SQLite - pizzapizza.db" create-date="1458502266157" save-password="true" show-system-objects="true" read-only="false">
+		<connection server="" database="/Users/sven/ownCloud/ec2016/workspace/JavaFXShowcase/pizzapizza.db" url="jdbc:sqlite:/Users/sven/ownCloud/ec2016/workspace/JavaFXShowcase/pizzapizza.db" user="" type="dev">
+			<bootstrap/>
+		</connection>
+	</data-source>
+</data-sources>
